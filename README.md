@@ -21,4 +21,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 [click here to see the app](https://udemy-vue-firebase-sites-ffeac.web.app/chatroom)
 
-[click here to see the app](# real-cool-heading)
+[click here to see the app](-real-cool-heading)
